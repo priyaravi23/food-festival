@@ -19,7 +19,10 @@ https://priyaravi23.github.io/food-festival/
 
 ![](images/lighthouse.jpg)
 
-### Tools Used
+### Concepts Covered
 
-- https://javascript-minifier.com/
-- https://imagecompressor.com/
+- Audit application performance using Google's Lighthouse tool
+- Minify Javascript and Image files
+- Lazy Loading Javascript files
+- Bundle the JavaScript files in an automated approach to code minification (Webpack)
+- Code splitting bundles of JavaScript files to reduce the page-load time
