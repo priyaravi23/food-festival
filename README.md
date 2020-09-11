@@ -18,3 +18,8 @@ https://priyaravi23.github.io/food-festival/
 - Lighthouse is a high-quality auditing tool for analyzing webpages. It provides audits for performance, accessibility, SEO (Search Engine Optimization), and Progressive Web Applications
 
 ![](images/lighthouse.jpg)
+
+### Tools Used
+
+- https://javascript-minifier.com/
+- https://imagecompressor.com/
