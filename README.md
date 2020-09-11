@@ -14,8 +14,10 @@ https://priyaravi23.github.io/food-festival/
 
 ### Tackle Performance Issues
 
-- Google has a tool called Lighthouse which allows us to run an audit on our page and discover different metrics about how it performs, as well as what might be hindering its performance
-- Lighthouse is a high-quality auditing tool for analyzing webpages. It provides audits for performance, accessibility, SEO (Search Engine Optimization), and Progressive Web Applications
+```text
+1. Google has a tool called Lighthouse which allows us to run an audit on our page and discover different metrics about how it performs, as well as what might be hindering its performance
+2. Lighthouse is a high-quality auditing tool for analyzing webpages. It provides audits for performance, accessibility, SEO (Search Engine Optimization), and Progressive Web Applications
+```
 
 ![](images/lighthouse.jpg)
 
