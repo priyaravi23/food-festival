@@ -21,8 +21,13 @@ https://priyaravi23.github.io/food-festival/
 
 ### Concepts Covered
 
-- Audit application performance using Google's Lighthouse tool
-- Minify Javascript and Image files
-- Lazy Loading Javascript files
-- Bundle the JavaScript files in an automated approach to code minification (Webpack)
-- Code splitting bundles of JavaScript files to reduce the page-load time
+```text
+1. Audit application performance using Google's Lighthouse tool
+2. Minify Javascript and Image files
+3. Lazy Loading Javascript files
+4. Bundle the JavaScript files in an automated approach to code minification (Webpack)
+5. Code splitting bundles of JavaScript files to reduce the page-load time
+6. How to add reporting tools with plugins to analyze potential problem areas
+7. How to split the code to lazily load each code bundle associated with each respective HTML page
+8. How to compress images using an image loader
+```
