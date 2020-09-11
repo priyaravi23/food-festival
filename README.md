@@ -31,3 +31,5 @@ https://priyaravi23.github.io/food-festival/
 7. How to split the code to lazily load each code bundle associated with each respective HTML page
 8. How to compress images using an image loader
 ```
+
+![](images/webpack-bundle-analyzer.jpg)
